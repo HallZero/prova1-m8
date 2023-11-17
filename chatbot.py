@@ -12,7 +12,7 @@ def status():
 
 intentions = {
     r"(?:([Cc]art[ãa]o ([Dd]e) (([Cc]r[[ée]dito)|([Dd][ée]bito)))|(?:([Pp]agamento)|([Mm]udar)|([Aa]tualiza)(r|[çc][ãa]o|do)))": "payment",
-    r"(?:([Ss]tatus)|([Rr]astrear)|([Oo]nde)|([Pp]edido)|([Ee]ntrega))": "status",
+    r"(?:([Ss]tatus)|([Rr]astrear)|([Oo]nde)|([Pp]edido)|([Ee]ntrega)|([Aa]companhar))": "status",
     # Exit
 }
 
